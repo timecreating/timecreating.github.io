@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 666
 subtitle: ''
 description: ''
 keywords:
@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'  https://github.com/timecreating/timecreating.github.io.git
-url: https://timecreating.github.io
+url: https://github.com/timecreating/timecreating.github.io.git
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -96,8 +96,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
-
+theme: tocas-ui-morgan
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
